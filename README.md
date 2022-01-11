@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gareth, I have been coding for the past 18 months.
-- 👀 I’m interested in ...
+- 👀 I’m interested in expanding my knowledge of Front-end development.
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+//- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email: johnge71@gmail.com
 or via LinkedIn (https://www.linkedin.com/in/gareth-john-chelt/)
 
